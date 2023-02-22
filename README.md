@@ -1,4 +1,4 @@
-Static landing page fully responsive.
+Home page fully responsive.
 The site is Currently in Beta version!!
 html
 Css
